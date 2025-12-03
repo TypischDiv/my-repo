@@ -1,0 +1,8 @@
+1.Github account
+2. empty repo
+3. local system 
+	git config --global user.name "TypischDiv"
+	git config --global user.email "sdivanshu558@gmail.com"
+4. git push -u origin master
+		username -> TypischDiv
+		email->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
